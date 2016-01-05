@@ -1,0 +1,1 @@
+# This a simple project made with Visual studio in C# language that helps in u copying files by telling which files already exist in both the folders.
