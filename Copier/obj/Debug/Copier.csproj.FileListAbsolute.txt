@@ -1,0 +1,9 @@
+D:\Documents\my vb works\Copier\Copier\bin\Debug\Copier.exe.config
+D:\Documents\my vb works\Copier\Copier\bin\Debug\Copier.exe
+D:\Documents\my vb works\Copier\Copier\bin\Debug\Copier.pdb
+D:\Documents\my vb works\Copier\Copier\obj\Debug\Copier.csprojResolveAssemblyReference.cache
+D:\Documents\my vb works\Copier\Copier\obj\Debug\Copier.Form1.resources
+D:\Documents\my vb works\Copier\Copier\obj\Debug\Copier.Properties.Resources.resources
+D:\Documents\my vb works\Copier\Copier\obj\Debug\Copier.csproj.GenerateResource.Cache
+D:\Documents\my vb works\Copier\Copier\obj\Debug\Copier.exe
+D:\Documents\my vb works\Copier\Copier\obj\Debug\Copier.pdb
